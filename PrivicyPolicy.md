@@ -31,11 +31,11 @@ Link to privacy policy of third party service providers used by the app
 * 閣下使用此項服務之日期和時間；及
 * 其他統計資料。
 
-**Cookies**
+#### **Cookies （小甜餅）**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+Cookies通常用作匿名唯一識別符，Cookies會含有小量資料。Cookies會由閣下訪問之網站向網際網路瀏覧器傳送，且會儲存於閣下裝置之內置記憶體中。
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+此服務不會直接使用這些Cookies。然而，應用程式可能會使用會使用Cookies的第三方程式碼或函式庫來蒐集資料來提升及改進服務。閣下可以選擇接受或拒絕使用這些Cookies，且得知Cookies於何時被傳送於閣下的裝置上。若你選擇拒絕使用這些Cookies，部份服務可能會不可用。
 
 **Service Providers**
 
