@@ -14,6 +14,8 @@
 
 應用程式「Hello World」不會使用任何可能蒐集資訊以辨別閣下身分之第三方服務。
 
+Link to privacy policy of third party service providers used by the app
+
 現有第三方服務提供者之私隠權政策：
 
 *   [Google Play 服務](https://www.google.com/policies/privacy/)
@@ -65,6 +67,8 @@ Cookies通常用作匿名唯一識別符，Cookies會含有小量資料。Cookie
 現行版本的私隠權政策於2020年8月9日起生效。
 
 #### **聯絡本人**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at guojiyou40020@hotmail.com.
 
 若閣下有對於此私隠權政策有任何問題或建議，請透過guojiyou40020@hotmail.com聯絡本人。
 
