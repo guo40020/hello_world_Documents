@@ -1,14 +1,14 @@
-### **私隠權政策**
+**Privacy Policy**
 
-應用程式「Hello World」乃由Kelly開發之免費應用程式。「Hello World」的服務（下文稱「服務」）及由Kelly免費提供且旨在按原樣使用。
+Kelly built the Hello World app as a Free app. This SERVICE is provided by Kelly at no cost and is intended for use as is.
 
-此頁面乃用於知會閣下使用此項服務時所涉及之個人資料收集、使用及披露之政策。
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-若閣下決定使用此項服務，則閣下同意本私隠權政策所訂立之蒐集及使用資料的規則。此項服務所蒐集之資料均用於提升及改進服務質素，閣下之資料不會被本人所使用，或與除本私隠權政策所訂立以外的任何第三者共享。
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-除特別指明外，本私隠權所使用之字詞與本人訂立之《條款與條件》中之字詞含意相同。閣下可以於「Hello World」應用程式中取得《條款與條件》。
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Hello World unless otherwise defined in this Privacy Policy.
 
-#### **資料的蒐集與使用**
+**Information Collection and Use**
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to phoneNumber. The information that I request will be retained on your device and is not collected by me in any way.
 
