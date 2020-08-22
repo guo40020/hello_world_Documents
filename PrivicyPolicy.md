@@ -1,52 +1,43 @@
-### **私隠權政策**
+**Privacy Policy**
 
-應用程式「Hello World」乃由Kelly開發之免費應用程式。「Hello World」的服務（下文稱「服務」）及由Kelly免費提供且旨在按原樣使用。
+Kelly built the Hello World app as a Free app. This SERVICE is provided by Kelly at no cost and is intended for use as is.
 
-此頁面乃用於知會閣下使用此項服務時所涉及之個人資料收集、使用及披露之政策。
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-若閣下決定使用此項服務，則閣下同意本私隠權政策所訂立之蒐集及使用資料的規則。此項服務所蒐集之資料均用於提升及改進服務質素，閣下之資料不會被本人所使用，或與除本私隠權政策所訂立以外的任何第三者共享。
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-除特別指明外，本私隠權所使用之字詞與本人訂立之《條款與條件》中之字詞含意相同。閣下可以於「Hello World」應用程式中取得《條款與條件》。
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Hello World unless otherwise defined in this Privacy Policy.
 
-#### **資料的蒐集與使用**
+**Information Collection and Use**
 
-為提升使用者體驗，於使用此項服務的過程中，本人可能要求閣下提供個人身分資訊，包括但不限於電話號碼。所有要求提供之訊息只會儲存於閣下之裝置上，本人不會以任何方式取得上述資訊。
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to phoneNumber. The information that I request will be retained on your device and is not collected by me in any way.
 
-應用程式「Hello World」不會使用任何可能蒐集資訊以辨別閣下身分之第三方服務。
+The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
 
-現有第三方服務提供者之私隠權政策：
+*   [Google Play Services](https://www.google.com/policies/privacy/)
 
-*   [Google Play 服務](https://www.google.com/policies/privacy/)
+**Log Data**
 
-#### **日誌檔案**
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-當閣下使用服務時，若應用程式出現了錯誤，本人會在閣下之裝置上蒐集日誌檔案，這些檔案可能包括：
+**Cookies**
 
-* 閣下裝置之IP位置；
-* 裝置之名稱；
-* 作業系統版本；
-* 應用程式存取服務時之設定；
-* 閣下使用此項服務之日期和時間；及
-* 其他統計資料。
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-#### **Cookies （小甜餅）**
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-Cookies通常用作匿名唯一識別符，Cookies會含有小量資料。Cookies會由閣下訪問之網站向網際網路瀏覧器傳送，且會儲存於閣下裝置之內置記憶體中。
+**Service Providers**
 
-此服務不會直接使用這些Cookies。然而，應用程式可能會使用會使用Cookies的第三方程式碼或函式庫來蒐集資料來提升及改進服務。閣下可以選擇接受或拒絕使用這些Cookies，且得知Cookies於何時被傳送於閣下的裝置上。若你選擇拒絕使用這些Cookies，部份服務可能會不可用。
+I may employ third-party companies and individuals due to the following reasons:
 
-#### **服務提供者**
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-本人可以因以下理由聘用第三方公司或個人：
-
-*   改進此項服務；
-*   代表本人提供服務；
-*   提供與此項服務相關之其他服務；
-*   協助本人分析如何改進服務的使用。
-
-現知會此項服務之使用者，上述第三方持份者有權存取閣下之個人資料，而其原因在於代表本人執行本人所指派之任務。然而，上述人士或機構有責任不披露或以任何目的使用這些個人資料。
+I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 **Security**
 

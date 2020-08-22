@@ -1,64 +1,77 @@
-**Privacy Policy**
+### **私隠權政策**
 
-Kelly built the Hello World app as a Free app. This SERVICE is provided by Kelly at no cost and is intended for use as is.
+應用程式「Hello World」乃由Kelly開發之免費應用程式。「Hello World」的服務（下文稱「服務」）及由Kelly免費提供且旨在按原樣使用。
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+此頁面乃用於知會閣下使用此項服務時所涉及之個人資料收集、使用及披露之政策。
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+若閣下決定使用此項服務，則閣下同意本私隠權政策所訂立之蒐集及使用資料的規則。此項服務所蒐集之資料均用於提升及改進服務質素，閣下之資料不會被本人所使用，或與除本私隠權政策所訂立以外的任何第三者共享。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Hello World unless otherwise defined in this Privacy Policy.
+除特別指明外，本私隠權所使用之字詞與本人訂立之《條款與條件》中之字詞含意相同。閣下可以於「Hello World」應用程式中取得《條款與條件》。
 
-**Information Collection and Use**
+#### **資料的蒐集與使用**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to phoneNumber. The information that I request will be retained on your device and is not collected by me in any way.
+為提升使用者體驗，於使用此項服務的過程中，本人可能要求閣下提供個人身分資訊，包括但不限於電話號碼。所有要求提供之訊息只會儲存於閣下之裝置上，本人不會以任何方式取得上述資訊。
 
-The app does use third party services that may collect information used to identify you.
+應用程式「Hello World」不會使用任何可能蒐集資訊以辨別閣下身分之第三方服務。
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+現有第三方服務提供者之私隠權政策：
 
-**Log Data**
+*   [Google Play 服務](https://www.google.com/policies/privacy/)
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+#### **日誌檔案**
 
-**Cookies**
+當閣下使用服務時，若應用程式出現了錯誤，本人會在閣下之裝置上蒐集日誌檔案，這些檔案可能包括：
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+* 閣下裝置之IP位置；
+* 裝置之名稱；
+* 作業系統版本；
+* 應用程式存取服務時之設定；
+* 閣下使用此項服務之日期和時間；及
+* 其他統計資料。
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+#### **Cookies （小甜餅）**
 
-**Service Providers**
+Cookies通常用作匿名唯一識別符，Cookies會含有小量資料。Cookies會由閣下訪問之網站向網際網路瀏覧器傳送，且會儲存於閣下裝置之內置記憶體中。
 
-I may employ third-party companies and individuals due to the following reasons:
+此服務不會直接使用這些Cookies。然而，應用程式可能會使用會使用Cookies的第三方程式碼或函式庫來蒐集資料來提升及改進服務。閣下可以選擇接受或拒絕使用這些Cookies，且得知Cookies於何時被傳送於閣下的裝置上。若你選擇拒絕使用這些Cookies，部份服務可能會不可用。
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+#### **服務提供者**
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+本人可以因以下理由聘用第三方公司或個人：
 
-**Security**
+*   改進此項服務；
+*   代表本人提供服務；
+*   提供與此項服務相關之其他服務；
+*   協助本人分析如何改進服務的使用。
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+現知會此項服務之使用者，上述第三方持份者有權存取閣下之個人資料，而其原因在於代表本人執行本人所指派之任務。然而，上述人士或機構有責任不披露或以任何目的使用這些個人資料。
 
-**Links to Other Sites**
+#### **安全**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+本人重視閣下信任將閣下之個人資料提交予本人，因此，本人將盡可能使用商業上可接受之方法對閣下之個人資料進行保護。然而，沒有經由網際網路傳送的資料之方式或沒有資料電子儲存之方式是絕對安全或可靠，因此本人不能保證閣下之個人資料絕對安全。
 
-**Children’s Privacy**
+#### **前往其他網站的超連結**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+此項服務中可能包含前往其他網站的超連結。若你點按第三方連結，你會被導向至外部網站。請注意，這些外部網站並不由本人管理，因此，本人強烈建議閣下先閱讀這些網站的私隠權政策。本人不能控制，亦不為任何第三方網站或服務之內容、私隠權政策或行為負任何責任。
 
-**Changes to This Privacy Policy**
+#### **兒童的隠私權**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+這些服務無法分辨任何人的年齡。本人並不會有意地蒐集13歳以下人士之個人身份訊息。若本人發現任何13歳以下人士向伺服器提供了他的個人身份資料，本人將會立即從伺服器上刪除這些資料。若你是13歳以下人士的父母或合法監護人，且你發現這名13歳以下人士向伺服器提供了他的個人身份資料，請聯絡本人以採取必要的行動。
 
-This policy is effective as of 2020-08-09
+#### **修訂本私隠權政策**
 
-**Contact Us**
+本人可修訂此私隠權政策，因此，本人建議閣下不時檢視本頁上內容之變更。本人將會在修訂本頁上之內容時通知閣下。
+
+現行版本的私隠權政策於2020年8月9日起生效。
+
+#### **聯絡本人**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at guojiyou40020@hotmail.com.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+若閣下有對於此私隠權政策有任何問題或建議，請透過guojiyou40020@hotmail.com聯絡本人。
+
+#### 翻譯版本須知
+
+本私隠權之原版為英文，於[privacypolicytemplate.net](https://privacypolicytemplate.net)建立，且被[App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)修改。若此版本與英文原版的內容有任何分歧，應當以英文原版作準。
