@@ -1,6 +1,8 @@
-### **私隠權政策**
+### **隐私政策**
 
 應用程式「Hello World」乃由Kelly開發之免費應用程式。「Hello World」的服務（下文稱「服務」）及由Kelly免費提供且旨在按原樣使用。
+
+应用程序“Hello World”是由Kelly开发的免费应用程序。“Hello World”的服务（下称“服务”）是由
 
 此頁面乃用於知會閣下使用此項服務時所涉及之個人資料收集、使用及披露之政策。
 
@@ -13,8 +15,6 @@
 為提升使用者體驗，於使用此項服務的過程中，本人可能要求閣下提供個人身分資訊，包括但不限於電話號碼。所有要求提供之訊息只會儲存於閣下之裝置上，本人不會以任何方式取得上述資訊。
 
 應用程式「Hello World」不會使用任何可能蒐集資訊以辨別閣下身分之第三方服務。
-
-Link to privacy policy of third party service providers used by the app
 
 現有第三方服務提供者之私隠權政策：
 
@@ -67,8 +67,6 @@ Cookies通常用作匿名唯一識別符，Cookies會含有小量資料。Cookie
 現行版本的私隠權政策於2020年8月9日起生效。
 
 #### **聯絡本人**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at guojiyou40020@hotmail.com.
 
 若閣下有對於此私隠權政策有任何問題或建議，請透過guojiyou40020@hotmail.com聯絡本人。
 
