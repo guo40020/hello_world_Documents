@@ -37,16 +37,16 @@ Cookies通常用作匿名唯一識別符，Cookies會含有小量資料。Cookie
 
 此服務不會直接使用這些Cookies。然而，應用程式可能會使用會使用Cookies的第三方程式碼或函式庫來蒐集資料來提升及改進服務。閣下可以選擇接受或拒絕使用這些Cookies，且得知Cookies於何時被傳送於閣下的裝置上。若你選擇拒絕使用這些Cookies，部份服務可能會不可用。
 
-**Service Providers**
+#### **服務提供者**
 
-I may employ third-party companies and individuals due to the following reasons:
+本人可以因以下理由聘用第三方公司或個人：
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   改進此項服務；
+*   代表本人提供服務；
+*   提供與此項服務相關之其他服務；
+*   協助本人分析如何改進服務的使用。
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+現知會此項服務之使用者，上述第三方持份者有權存取閣下之個人資料，而其原因在於代表本人執行本人所指派之任務。然而，上述人士或機構有責任不披露或以任何目的使用這些個人資料。
 
 **Security**
 
