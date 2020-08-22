@@ -10,17 +10,21 @@
 
 #### **資料的蒐集與使用**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to phoneNumber. The information that I request will be retained on your device and is not collected by me in any way.
+為提升使用者體驗，於使用此項服務的過程中，本人可能要求閣下提供個人身分資訊，包括但不限於電話號碼。所有要求提供之訊息只會儲存於閣下之裝置上，本人不會以任何方式取得上述資訊。
 
-The app does use third party services that may collect information used to identify you.
+應用程式「Hello World」不會使用任何可能蒐集資訊以辨別閣下身分之第三方服務。
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
+現有第三方服務提供者之私隠權政策：
 
-**Log Data**
+*   [Google Play 服務](https://www.google.com/policies/privacy/)
+
+#### **日誌資料**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+當你使用
 
 **Cookies**
 
