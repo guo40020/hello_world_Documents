@@ -20,11 +20,16 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Google Play 服務](https://www.google.com/policies/privacy/)
 
-#### **日誌資料**
+#### **日誌檔案**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+當閣下使用服務時，若應用程式出現了錯誤，本人會在閣下之裝置上蒐集日誌檔案，這些檔案可能包括：
 
-當你使用
+* 閣下裝置之IP位置；
+* 裝置之名稱；
+* 作業系統版本；
+* 應用程式存取服務時之設定；
+* 閣下使用此項服務之日期和時間；及
+* 其他統計資料。
 
 **Cookies**
 
